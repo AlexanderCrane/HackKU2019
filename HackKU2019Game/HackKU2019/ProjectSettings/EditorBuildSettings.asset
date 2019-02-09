@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/KaijuCity.unity
+    guid: 7589bd5650f64af4b9e36c529ddc5e9a
+  - enabled: 1
     path: Assets/Origami.unity
     guid: ea8135ae603d26945a060d4449bb8f17

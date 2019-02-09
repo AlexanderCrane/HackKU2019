@@ -1,8 +1,8 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
         <UnityWSASolutionName>HackKU2019</UnityWSASolutionName>
-        <UnityWSASolutionDir>C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019\App\</UnityWSASolutionDir>
-        <UnityProjectDir>C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019\</UnityProjectDir>
+        <UnityWSASolutionDir>C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\</UnityProjectDir>
         <UnityWSAPlayerDir>C:\Program Files\Unity\Hub\Editor\2017.4.16f1\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
     </PropertyGroup>
