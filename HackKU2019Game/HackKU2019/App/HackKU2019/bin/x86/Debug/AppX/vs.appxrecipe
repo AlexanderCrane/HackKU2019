@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-10T00:33:53.312</Modified>
+      <Modified>2019-02-10T03:39:32.381</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\bin\x86\Debug\HackKU2019.exe">
       <PackagePath>entrypoint\HackKU2019.exe</PackagePath>
-      <Modified>2019-02-10T00:32:59.316</Modified>
+      <Modified>2019-02-10T03:39:15.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -501,7 +501,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2019-02-10T00:27:41.550</Modified>
+      <Modified>2019-02-10T03:36:47.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -543,19 +543,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2019-02-10T00:24:53.873</Modified>
+      <Modified>2019-02-10T03:35:56.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2019-02-10T00:24:31.289</Modified>
+      <Modified>2019-02-10T03:35:54.633</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2019-02-10T00:24:25.628</Modified>
+      <Modified>2019-02-10T03:35:52.876</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\level1">
       <PackagePath>Data\level1</PackagePath>
-      <Modified>2019-02-10T00:24:26.322</Modified>
+      <Modified>2019-02-10T03:35:53.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -563,51 +563,51 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2019-02-10T00:24:53.864</Modified>
+      <Modified>2019-02-10T03:35:56.097</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2019-02-10T00:24:31.719</Modified>
+      <Modified>2019-02-10T03:35:54.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2019-02-10T00:24:31.866</Modified>
+      <Modified>2019-02-10T03:35:54.863</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2019-02-10T00:24:39.302</Modified>
+      <Modified>2019-02-10T03:35:55.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\sharedassets1.assets">
       <PackagePath>Data\sharedassets1.assets</PackagePath>
-      <Modified>2019-02-10T00:24:39.331</Modified>
+      <Modified>2019-02-10T03:35:55.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2019-02-10T00:24:25.624</Modified>
+      <Modified>2019-02-10T03:35:52.873</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\level1.resS">
       <PackagePath>Data\level1.resS</PackagePath>
-      <Modified>2019-02-10T00:24:26.318</Modified>
+      <Modified>2019-02-10T03:35:53.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2019-02-10T00:24:39.301</Modified>
+      <Modified>2019-02-10T03:35:55.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2019-02-10T00:27:41.428</Modified>
+      <Modified>2019-02-10T03:36:47.102</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2019-02-10T00:27:41.432</Modified>
+      <Modified>2019-02-10T03:36:47.104</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\resources.resource">
       <PackagePath>Data\resources.resource</PackagePath>
-      <Modified>2019-02-10T00:24:31.873</Modified>
+      <Modified>2019-02-10T03:35:54.865</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Data\sharedassets0.resource">
       <PackagePath>Data\sharedassets0.resource</PackagePath>
-      <Modified>2019-02-10T00:24:39.313</Modified>
+      <Modified>2019-02-10T03:35:55.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.17134.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -620,223 +620,223 @@
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-10T00:33:04.250</Modified>
+      <Modified>2019-02-10T03:39:16.793</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:35.613</Modified>
+      <Modified>2019-02-10T03:39:25.763</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:35.631</Modified>
+      <Modified>2019-02-10T03:39:25.830</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:35.643</Modified>
+      <Modified>2019-02-10T03:39:25.860</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:35.827</Modified>
+      <Modified>2019-02-10T03:39:25.922</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:35.850</Modified>
+      <Modified>2019-02-10T03:39:25.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:35.860</Modified>
+      <Modified>2019-02-10T03:39:25.975</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:35.876</Modified>
+      <Modified>2019-02-10T03:39:26.013</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:35.895</Modified>
+      <Modified>2019-02-10T03:39:26.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:35.907</Modified>
+      <Modified>2019-02-10T03:39:26.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:35.928</Modified>
+      <Modified>2019-02-10T03:39:26.125</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:36.031</Modified>
+      <Modified>2019-02-10T03:39:26.179</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:36.052</Modified>
+      <Modified>2019-02-10T03:39:26.219</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:36.065</Modified>
+      <Modified>2019-02-10T03:39:26.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:36.077</Modified>
+      <Modified>2019-02-10T03:39:26.310</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:36.100</Modified>
+      <Modified>2019-02-10T03:39:26.351</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:36.114</Modified>
+      <Modified>2019-02-10T03:39:26.393</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:36.129</Modified>
+      <Modified>2019-02-10T03:39:26.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:36.143</Modified>
+      <Modified>2019-02-10T03:39:26.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:36.184</Modified>
+      <Modified>2019-02-10T03:39:26.520</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:36.194</Modified>
+      <Modified>2019-02-10T03:39:26.555</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:36.219</Modified>
+      <Modified>2019-02-10T03:39:26.605</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:36.230</Modified>
+      <Modified>2019-02-10T03:39:26.644</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.091</Modified>
+      <Modified>2019-02-10T03:39:26.931</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.103</Modified>
+      <Modified>2019-02-10T03:39:26.975</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.142</Modified>
+      <Modified>2019-02-10T03:39:27.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2019-02-10T00:25:55.151</Modified>
+      <Modified>2019-02-10T03:36:14.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.154</Modified>
+      <Modified>2019-02-10T03:39:27.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.164</Modified>
+      <Modified>2019-02-10T03:39:27.107</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.176</Modified>
+      <Modified>2019-02-10T03:39:27.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.188</Modified>
+      <Modified>2019-02-10T03:39:27.194</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.217</Modified>
+      <Modified>2019-02-10T03:39:27.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.274</Modified>
+      <Modified>2019-02-10T03:39:27.331</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.296</Modified>
+      <Modified>2019-02-10T03:39:27.407</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.313</Modified>
+      <Modified>2019-02-10T03:39:27.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.323</Modified>
+      <Modified>2019-02-10T03:39:27.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.380</Modified>
+      <Modified>2019-02-10T03:39:27.572</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.394</Modified>
+      <Modified>2019-02-10T03:39:27.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.404</Modified>
+      <Modified>2019-02-10T03:39:27.658</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.448</Modified>
+      <Modified>2019-02-10T03:39:27.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.594</Modified>
+      <Modified>2019-02-10T03:39:27.781</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.605</Modified>
+      <Modified>2019-02-10T03:39:27.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.625</Modified>
+      <Modified>2019-02-10T03:39:27.868</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.634</Modified>
+      <Modified>2019-02-10T03:39:27.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.718</Modified>
+      <Modified>2019-02-10T03:39:27.984</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.789</Modified>
+      <Modified>2019-02-10T03:39:28.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2019-02-10T00:33:37.921</Modified>
+      <Modified>2019-02-10T03:39:28.143</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2019-02-10T00:33:38.054</Modified>
+      <Modified>2019-02-10T03:39:28.240</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2019-02-10T00:33:38.339</Modified>
+      <Modified>2019-02-10T03:39:28.353</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2019-02-10T00:33:38.355</Modified>
+      <Modified>2019-02-10T03:39:28.388</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2019-02-10T00:33:38.396</Modified>
+      <Modified>2019-02-10T03:39:28.415</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2019-02-10T00:33:38.435</Modified>
+      <Modified>2019-02-10T03:39:28.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2019-02-10T00:33:38.633</Modified>
+      <Modified>2019-02-10T03:39:28.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2019-02-10T00:33:35.575</Modified>
+      <Modified>2019-02-10T03:39:25.716</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\Desktop\HackKU2019\HackKU2019\HackKU2019Game\HackKU2019\App\HackKU2019\bin\x86\Debug\Core\HackKU2019.exe">
       <PackagePath>HackKU2019.exe</PackagePath>
-      <Modified>2019-02-10T00:33:53.244</Modified>
+      <Modified>2019-02-10T03:39:32.376</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
