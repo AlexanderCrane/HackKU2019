@@ -6,24 +6,24 @@ public class TapToPlaceParent : MonoBehaviour
 
     private void Start()
     {
-        RaycastHit hitInfo;
-        if (Physics.Raycast(this.transform.parent.position, new Vector3(this.transform.parent.position.x, this.transform.parent.position.y - 100f, this.transform.parent.position.z), out hitInfo, 100.0f, SpatialMapping.PhysicsRaycastMask))
-        {
-            // Move this object's parent object to
-            // where the raycast hit the Spatial Mapping mesh.
-            this.transform.parent.position = hitInfo.point;
+        Debug.Log("Entered start function");
 
-            // Rotate this object's parent object to face the user.
-            Quaternion toQuat = Camera.main.transform.localRotation;
-            toQuat.x = 0;
-            toQuat.z = 0;
-            this.transform.parent.rotation = toQuat;
+        RaycastHit hit;
+
+        if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.down), out hit))
+        {
+            Debug.Log("Raycast hit!");
+            this.transform.parent.position = hit.point;
+        }
+        else
+        {
+            Debug.Log("Raycast not hit!");
         }
 
     }
 
-    // Called by GazeGestureManager when the user performs a Select gesture
-    void OnSelect()
+        // Called by GazeGestureManager when the user performs a Select gesture
+        void OnSelect()
     {
         // On each Select gesture, toggle whether the user is in placing mode.
         placing = !placing;

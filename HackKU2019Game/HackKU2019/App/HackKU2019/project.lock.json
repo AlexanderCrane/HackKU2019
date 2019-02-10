@@ -15962,12 +15962,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\HackKU2019\\HackKU2019\\HackKU2019\\App\\HackKU2019\\HackKU2019.csproj",
+      "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\HackKU2019\\HackKU2019\\HackKU2019Game\\HackKU2019\\App\\HackKU2019\\HackKU2019.csproj",
       "projectName": "HackKU2019",
-      "projectPath": "C:\\Users\\Alexander\\Desktop\\HackKU2019\\HackKU2019\\HackKU2019\\App\\HackKU2019\\HackKU2019.csproj",
-      "projectJsonPath": "C:\\Users\\Alexander\\Desktop\\HackKU2019\\HackKU2019\\HackKU2019\\App\\HackKU2019\\project.json",
+      "projectPath": "C:\\Users\\Alexander\\Desktop\\HackKU2019\\HackKU2019\\HackKU2019Game\\HackKU2019\\App\\HackKU2019\\HackKU2019.csproj",
+      "projectJsonPath": "C:\\Users\\Alexander\\Desktop\\HackKU2019\\HackKU2019\\HackKU2019Game\\HackKU2019\\App\\HackKU2019\\project.json",
       "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexander\\Desktop\\HackKU2019\\HackKU2019\\HackKU2019\\App\\HackKU2019\\obj\\",
+      "outputPath": "C:\\Users\\Alexander\\Desktop\\HackKU2019\\HackKU2019\\HackKU2019Game\\HackKU2019\\App\\HackKU2019\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -15980,8 +15980,8 @@
       "frameworks": {
         "uap10.0.10240": {
           "projectReferences": {
-            "C:\\Users\\Alexander\\Desktop\\HackKU2019\\HackKU2019\\HackKU2019\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
-              "projectPath": "C:\\Users\\Alexander\\Desktop\\HackKU2019\\HackKU2019\\HackKU2019\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
+            "C:\\Users\\Alexander\\Desktop\\HackKU2019\\HackKU2019\\HackKU2019Game\\HackKU2019\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+              "projectPath": "C:\\Users\\Alexander\\Desktop\\HackKU2019\\HackKU2019\\HackKU2019Game\\HackKU2019\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
             }
           }
         }

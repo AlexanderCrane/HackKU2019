@@ -8,25 +8,7 @@ public class SnapBuilding : MonoBehaviour
 
     private void Start()
     {
-        //StartCoroutine(waitForStart());
-        RaycastHit hitInfo;
-        var objPosition = this.transform.position;
-        var direction = -this.transform.up;
-
-        if (Physics.Raycast(objPosition, direction, out hitInfo,100.0f, SpatialMapping.PhysicsRaycastMask))
-        { 
-            // Move this object's parent object to
-            // where the raycast hit the Spatial Mapping mesh.
-            this.transform.position = hitInfo.point;
-
-            // Rotate this object's parent object to face the user.
-            Quaternion toQuat = Camera.main.transform.localRotation;
-            toQuat.x = 0;
-            toQuat.z = 0;
-            this.transform.rotation = toQuat;
-        }
-
-
+        StartCoroutine(waitForStart());  
     }
 
     // Called by GazeGestureManager when the user performs a Select gesture
@@ -79,23 +61,21 @@ public class SnapBuilding : MonoBehaviour
     IEnumerator waitForStart()
     {
 
-        yield return new WaitForSeconds(2.0f);
+        yield return new WaitForSeconds(10.0f);
 
-        RaycastHit hitInfo;
-        if (Physics.Raycast(transform.position, new Vector3(transform.position.x, transform.position.y - 1000f, transform.position.z), out hitInfo, 100.0f, SpatialMapping.PhysicsRaycastMask))
+        Debug.Log("Entered start function");
+
+        RaycastHit hit;
+
+        if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.down), out hit))
         {
-            // Move this object's parent object to
-            // where the raycast hit the Spatial Mapping mesh.
-            this.transform.position = hitInfo.point;
-
-            // Rotate this object's parent object to face the user.
-            Quaternion toQuat = Camera.main.transform.localRotation;
-            toQuat.x = 0;
-            toQuat.z = 0;
-            this.transform.rotation = toQuat;
+            Debug.Log("Raycast hit!");
+            this.transform.parent.position = hit.point;
         }
-
-
+        else
+        {
+            Debug.Log("Raycast not hit!");
+        }
 
     }
 }

@@ -28,6 +28,24 @@ public class GazeGestureManager : MonoBehaviour
         recognizer.StartCapturingGestures();
     }
 
+    /*private void Start()
+    {
+        Debug.Log("Entered start function");
+
+        RaycastHit hit;
+
+        if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.down), out hit))
+        {
+            Debug.Log("Raycast hit!");
+            this.transform.position = hit.point;
+        }
+        else
+        {
+            Debug.Log("Raycast not hit!");
+        }
+
+    }*/
+
     // Update is called once per frame
     void Update()
     {
