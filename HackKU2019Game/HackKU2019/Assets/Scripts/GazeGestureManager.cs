@@ -10,6 +10,8 @@ public class GazeGestureManager : MonoBehaviour
 
     GestureRecognizer recognizer;
 
+    public GameObject beamLaser;
+
     // Use this for initialization
     void Awake()
     {

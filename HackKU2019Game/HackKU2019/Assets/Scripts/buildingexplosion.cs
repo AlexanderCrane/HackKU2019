@@ -6,10 +6,24 @@ public class buildingexplosion : MonoBehaviour {
     //public Material boom;
     public GameObject bewmboom;
 
-	// Use this for initialization
-	void Start () {
-        //StartCoroutine(wait());
+    public GameObject buildingMesh;
+    public GameObject buildingMesh2;
+    GameObject fire;
+    public GameObject parent;
+
+    public AudioSource explosionSound;
+
+    public GameObject laser1;
+
+    public GameObject laser2;
+
+    // Use this for initialization
+    void Start () {
+
         //GameObject fire = Instantiate(bewmboom, this.transform.position, this.transform.rotation);
+        //fire.GetComponent<ParticleSystem>().loop = false;
+
+        //StartCoroutine(wait());
         //Destroy(this.transform.parent.gameObject);
         //StartCoroutine(wait(fire));
 
@@ -30,15 +44,39 @@ public class buildingexplosion : MonoBehaviour {
         }
 
         this.GetComponent<MeshRenderer>().material = boom;*/
-        GameObject fire = Instantiate(bewmboom, this.transform.position, this.transform.rotation);
-        Destroy(this.transform.parent.gameObject);
-        StartCoroutine(wait(fire));
+
+        //GameObject projectile = Instantiate(laser) as GameObject;
+        //projectile.transform.position = Camera.main.transform.forward;
+        //Rigidbody rb = projectile.GetComponent<Rigidbody>();
+        //rb.velocity = Camera.main.transform.forward * 40;
+
+        if (Vector3.Distance(Camera.main.transform.position, this.parent.transform.position) <= 3f)
+        {
+
+            GameObject newFire = Instantiate(bewmboom, this.transform.position, this.transform.rotation);
+            fire = newFire;
+            buildingMesh.GetComponent<MeshRenderer>().enabled = false;
+            buildingMesh2.GetComponent<MeshRenderer>().enabled = false;
+
+
+            laser1.GetComponent<BeamLaser>().shootLaser();
+            laser2.GetComponent<BeamLaser>().shootLaser();
+
+            explosionSound.Play();
+            fire.GetComponent<ParticleSystem>().loop = false;
+            StartCoroutine(wait());
+        }
     }
 
-    IEnumerator wait(GameObject fire)
+    IEnumerator wait()
     {
-        yield return new WaitForSeconds(7.0f);
+        yield return new WaitForSeconds(5.0f);
 
-        Destroy(fire);
+        //Destroy(fire);
+        //laser1.GetComponent<BeamLaser>().shootLaser();
+        //laser2.GetComponent<BeamLaser>().shootLaser();
+
+        Destroy(parent);
+
     }
 }

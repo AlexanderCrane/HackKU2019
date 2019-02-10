@@ -63,10 +63,6 @@ public class BuildingManager : MonoBehaviour
         }
     }
 
-    private void Update() {
-        // Refresh Buildings
-    }
-
     private void PlaceObjectHere(Vector3 slot_pos) {
             var drop_position = gridArray.GetComponent<GridArray>().GetGridPoint(slot_pos);
 

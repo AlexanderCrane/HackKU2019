@@ -6,13 +6,15 @@ public class SnapBuilding : MonoBehaviour
 {
     bool placing = false;
 
+    public GameObject parent;
+
     private void Start()
     {
         StartCoroutine(waitForStart());  
     }
 
     // Called by GazeGestureManager when the user performs a Select gesture
-    void OnSelect()
+    /*void OnSelect()
     {
         // On each Select gesture, toggle whether the user is in placing mode.
         placing = !placing;
@@ -27,10 +29,10 @@ public class SnapBuilding : MonoBehaviour
         {
             SpatialMapping.Instance.DrawVisualMeshes = false;
         }
-    }
+    }*/
 
     // Update is called once per frame
-    void Update()
+    /*void Update()
     {
         // If the user is in placing mode,
         // update the placement to match the user's gaze.
@@ -56,7 +58,7 @@ public class SnapBuilding : MonoBehaviour
                 this.transform.rotation = toQuat;
             }
         }
-    }
+    }*/
 
     IEnumerator waitForStart()
     {
@@ -74,6 +76,7 @@ public class SnapBuilding : MonoBehaviour
         }
         else
         {
+            Destroy(parent.gameObject);
             Debug.Log("Raycast not hit!");
         }
 

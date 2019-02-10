@@ -2,6 +2,7 @@
 using System.Linq;
 using UnityEngine;
 using UnityEngine.Windows.Speech;
+using UnityEngine.SceneManagement;
 
 public class SpeechManager : MonoBehaviour
 {
@@ -15,6 +16,7 @@ public class SpeechManager : MonoBehaviour
         {
             // Call the OnReset method on every descendant object.
             this.BroadcastMessage("OnReset");
+            SceneManager.LoadScene(0);
         });
 
         keywords.Add("Drop Sphere", () =>
